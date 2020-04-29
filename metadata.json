@@ -1,0 +1,40 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adi1090x@gamil.com",
+                "Name": "Aditya Shakya"
+            }
+        ],
+        "Id": "animecity",
+        "License": "LGPLv3",
+        "Name": "Anime City"
+    },
+    "Wallpaper": {
+        "Preview": "preview.gif",
+        "Smooth": true,
+        "Type": "timed",
+        "MetaData": [
+            {
+                "Time": 0,
+                "FileName": "24.jpg"
+            },
+            {
+                "Time": 0.25,
+                "FileName": "6.jpg"
+            },
+            {
+                "Time": 0.375,
+                "FileName": "12.jpg"
+            },
+            {
+                "Time": 0.667,
+                "FileName": "6.jpg"
+            },
+            {
+                "Time": 0.792,
+                "FileName": "24.jpg"
+            }
+        ]
+    }
+}
